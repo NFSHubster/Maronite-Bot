@@ -16,10 +16,10 @@ The official community and liturgical assistant for the **Maronite Christianity*
 
 ## 🚀 Tech Stack
 
-*   **Runtime:** [Node.js / Python] *(Delete the one you aren't using)*
+*   **Runtime:** [Node.js]
 *   **Library:** Discord.js / Discord.py
 *   **Hosting:** Discloud (24/7 Uptime)
-*   **Source:** Originally generated with Replit AI & custom logic
+*   **Source:** Used Replit AI with some functions coded by me
 
 ---
 
@@ -27,7 +27,7 @@ The official community and liturgical assistant for the **Maronite Christianity*
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/NFSHubster/Maronite-Bot
    ```
 
 2. **Install Dependencies:**
