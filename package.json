@@ -1,0 +1,13 @@
+{
+  "name": "maronite-discord-bot",
+  "version": "1.0.0",
+  "description": "Maronite Community Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node index.js --deploy"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
